@@ -7,3 +7,7 @@ https://docs.wpilib.org/en/stable/index.html
 Swerve drive documentation:
 
 https://docs.wpilib.org/en/stable/docs/software/kinematics-and-odometry/swerve-drive-kinematics.html
+
+This could be important:
+
+https://docs.advantagescope.org/tab-reference/swerve/
