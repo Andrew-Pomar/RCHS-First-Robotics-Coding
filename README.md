@@ -11,3 +11,7 @@ https://docs.wpilib.org/en/stable/docs/software/kinematics-and-odometry/swerve-d
 This could be important:
 
 https://docs.advantagescope.org/tab-reference/swerve/
+
+This is a video walkthrough for the swerve drive:
+
+https://www.youtube.com/watch?v=OvGzSTomdGE
