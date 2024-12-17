@@ -18,8 +18,11 @@ https://www.youtube.com/watch?v=OvGzSTomdGE
 
 
 Swerve drive dimensions and Tuner X documentation:
+
 https://v6.docs.ctr-electronics.com/en/stable/docs/tuner/tuner-swerve/index.html
 
 Side: 33 1/16th
+
 Long: 39 1/16th
+
 Corner to Corner 50 13/16th
