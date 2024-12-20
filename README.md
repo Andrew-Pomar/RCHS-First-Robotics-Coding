@@ -26,3 +26,7 @@ Side: 33 1/16th
 Long: 39 1/16th
 
 Corner to Corner 50 13/16th
+
+**DOWNLOAD**
+
+https://apps.microsoft.com/detail/9NVV4PWDW27Z?hl=en-us&gl=US&ocid=pdpshare
