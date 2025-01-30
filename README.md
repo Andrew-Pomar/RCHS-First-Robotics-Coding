@@ -8,13 +8,17 @@ Swerve drive documentation:
 
 https://docs.wpilib.org/en/stable/docs/software/kinematics-and-odometry/swerve-drive-kinematics.html
 
+**Genereal Information**
+
+Team Number: 
+
+Coding Language: 
+
 **Robot**
 
 Square: 28x28
 
 Gear Ratio L1+
-
-Team Number:
 
 Swerve Drive: SDS MK4n
 
