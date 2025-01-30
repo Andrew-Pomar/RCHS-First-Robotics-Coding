@@ -8,7 +8,7 @@ Swerve drive documentation:
 
 https://docs.wpilib.org/en/stable/docs/software/kinematics-and-odometry/swerve-drive-kinematics.html
 
-**Genereal Information**
+**General Information**
 
 Team Number: 10157
 
