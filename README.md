@@ -1,5 +1,7 @@
 # RCHS-First-Robotics-Coding
 
+**MAKE SURE ALL FRC SOFTWARE IS UP-TO-DATE DURING THE FIRST WEEK OF JANUARY**
+
 WPILIb Website:
 
 https://docs.wpilib.org/en/stable/index.html
@@ -30,4 +32,4 @@ Swerve Drive: SDS MK4n
 
 https://apps.microsoft.com/detail/9NVV4PWDW27Z?hl=en-us&gl=US&ocid=pdpshare
 
-**MAKE SURE ALL FRC SOFTWARE IS UP-TO-DATE DURING THE FIRST WEEK OF JANUARY**
+
