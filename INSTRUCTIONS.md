@@ -48,7 +48,6 @@ Personally, I would integrate the code for this last. Make sure tha tyou can wri
   - https://github.com/MAikenMagic1102/2024Alpha/blob/main/2024Swerve/src/main/java/frc/robot/RobotContainer.java
   - https://www.chiefdelphi.com/t/what-to-know-before-using-pathplanner/416981
 - make sure that you make a path with the least amount of checkpoints that you can. Each checkpoint increases the total time by (I believe) 5 ms (this will add up for the alloted time you're given).
-- 
 
 ## WPILIB
 This version of VS Code has basically everything you need. There is also documentation for basically everything. Chief Delphi, Reddit, Stack Overflow, and AI tools are your best friends. Also, the Wood Mentors are very helpful in this part.
