@@ -45,7 +45,7 @@ Personally, I would integrate the code for this last. Make sure tha tyou can wri
 - download PathPlanner FRC from the microsoft store.
 - **make sure that you're finished with the swerve drives**
 - to integrate the code use PathPlanner's instructions and CTRE's example code set.
-  - 
+  - https://github.com/MAikenMagic1102/2024Alpha/blob/main/2024Swerve/src/main/java/frc/robot/RobotContainer.java
   - https://www.chiefdelphi.com/t/what-to-know-before-using-pathplanner/416981
 - make sure that you make a path with the least amount of checkpoints that you can. Each checkpoint increases the total time by (I believe) 5 ms (this will add up for the alloted time you're given).
 - 
