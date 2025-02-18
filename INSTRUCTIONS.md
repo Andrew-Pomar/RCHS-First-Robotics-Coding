@@ -41,7 +41,14 @@ I would recommend to do the swerve drive (if we're using swerve drives) code fir
 - the drives might be very fast off rip. You will probably have to write code for a slower mode, and probably change the intial speeds.
 
 ## PathPlanner Guide
-
+Personally, I would integrate the code for this last. Make sure tha tyou can write the code for the NEO motors before doing this.
+- download PathPlanner FRC from the microsoft store.
+- **make sure that you're finished with the swerve drives**
+- to integrate the code use PathPlanner's instructions and CTRE's example code set.
+  - 
+  - https://www.chiefdelphi.com/t/what-to-know-before-using-pathplanner/416981
+- make sure that you make a path with the least amount of checkpoints that you can. Each checkpoint increases the total time by (I believe) 5 ms (this will add up for the alloted time you're given).
+- 
 
 ## WPILIB
 This version of VS Code has basically everything you need. There is also documentation for basically everything. Chief Delphi, Reddit, Stack Overflow, and AI tools are your best friends. Also, the Wood Mentors are very helpful in this part.
