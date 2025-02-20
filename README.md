@@ -4,6 +4,8 @@
 
 ## **General Information**
 
+**THEY GENERALLY MAKE NEW EXAMPLE CODE DURING MID TO LATE DECEMBER.**
+
 Team Number: 10157
 
 Coding Language: Java
