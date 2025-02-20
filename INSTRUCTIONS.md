@@ -49,6 +49,8 @@ Personally, I would integrate the code for this last. Make sure tha tyou can wri
   - https://github.com/CrossTheRoadElec/Phoenix6-Examples/tree/main/java/SwerveWithPathPlanner/src/main/java/frc/robot
     - This is the 2025 example code
   - https://www.chiefdelphi.com/t/what-to-know-before-using-pathplanner/416981
+  - https://www.chiefdelphi.com/t/pathplanner-2025-beta/472443
+    - from the same person who made the 2025 example code
 - make sure that you make a path with the least amount of checkpoints that you can. Each checkpoint increases the total time by (I believe) 5 ms (this will add up for the alloted time you're given).
 
 ## WPILIB
