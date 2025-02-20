@@ -8,15 +8,15 @@ Team Number: 10157
 
 Coding Language: Java
 
-Gear Ratio L1+
+2025 Gear Ratio: L1+
 
-Swerve Drive: SDS MK4n
+2025 Swerve Drive: SDS MK4n
 
 **DOWNLOAD**
 
 https://apps.microsoft.com/detail/9NVV4PWDW27Z?hl=en-us&gl=US&ocid=pdpshare
 
-https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html
+https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html (will need an account to install)
 
 https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
 
