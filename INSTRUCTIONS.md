@@ -60,7 +60,7 @@ This version of VS Code has basically everything you need. There is also documen
   - its on this website: https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/roborio2-imaging.html
 - You will need the new roborio image
   - should come with FRC Game Tools (update this if not)
-- **MAKE SURE THAT YOU INPUT THE CORRECT TEAM NUMBER**
+- **MAKE SURE THAT YOU INPUT THE CORRECT TEAM NUMBER** *(10157)*
 
 
 ## General Good Practice
