@@ -39,6 +39,7 @@ I would recommend to do the swerve drive (if we're using swerve drives) code fir
   - ex: the front left module's motor for steering would be: LT Steering
   - Driving would be: LT Drive
 - the drives might be very fast off rip. You will probably have to write code for a slower mode, and probably change the intial speeds.
+- if you need to set up a deadzone, increase the deadband value. This is just another term for deadzone in the code.
 
 ## PathPlanner Guide
 Personally, I would integrate the code for this last. Make sure tha tyou can write the code for the NEO motors before doing this.
