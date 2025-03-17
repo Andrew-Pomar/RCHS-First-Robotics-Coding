@@ -1,0 +1,27 @@
+Robot Mass (KG)- 42.9
+Robot MOI (KG*M^2)- 4
+^These numnbers change a lot so redo these often, the ^
+
+Bumpers: 
+Bumper Width (M)- 0.875
+Bumper Length (M)- 0.875
+Bumper Offset X (M)- 0
+Bumper Offset Y (M)- 0
+
+Moldule Config:
+Wheel Radius (M)- 0.051
+Drive Gearing- 7.125
+True Max Drive Speed (M/S)- 4.48
+Wheel COF- N/A(1)
+Drive Motor- Kraken X60
+Drive Current Limit (A)- 41
+
+Module Offsets:
+Front Left X (M)- 0.356
+Front Left Y (M)- 0.356
+Front Right X (M)- 0.356
+Front Right Y (M)- -0.356
+Back Left X (M)- -0.356
+Back Left Y (M)- 0.356
+Back Right X (M)- -0.356
+Back Right Y (M)- -0.356
