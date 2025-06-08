@@ -10,7 +10,7 @@
 I would recommend to do the swerve drive (if we're using swerve drives) code first with phoenix tuner. Then I would do the pathplanner for the autonomous (if that's required for points). Everything else, like extra motors, will require more time than those two. In the 2025 competition, I have been having issues with coding the NEO Motors, where running "./gradlew build" in the terminal throws up an unsuccessful build. I will document how I fix this later because, as of writing this, I have yet to fix it. The biggest thing for this competition, however, is the swerve drives. Swerve drive modules are omnidirectional wheels that move kind of like shopping cart wheels. 
 
 ***SIGN UP FOR GITHUB EDUCATION. IT WILL GIVE YOU COPILOT FOR FREE AMONG OTHER THINGS. - https://education.github.com/discount_requests/application***
-- all you need is to take a picture of your student ID and sent a picture of why you're not at the school if you sign up from home (I sent a picture of the school calendar, but if it's after school then you can just send a picture of the time, calendar or bell schedule.)
+- all you need is to take a picture of your student ID and send a picture of why you're not at the school if you sign up from home (I sent a picture of the school calendar, but if it's after school then you can just send a picture of the time, calendar or bell schedule.)
 
 ## Swerve Drive Setup (Using Phoenix Tuner X)
 *Prior Info You Need:*
@@ -39,6 +39,7 @@ I would recommend to do the swerve drive (if we're using swerve drives) code fir
   - ex: the front left module's motor for steering would be: LT Steering
   - Driving would be: LT Drive
 - the drives might be very fast off rip. You will probably have to write code for a slower mode, and probably change the intial speeds.
+  - I did this by making a conditional command where if a button was pressed it would disable all others and enable the new speed. The speed was changed by multiplying the original speed value by the "SpeedFactor" which was a value between 0 and 1.
 - if you need to set up a deadzone, increase the deadband value. This is just another term for deadzone in the code.
 
 ## PathPlanner Guide
@@ -52,6 +53,9 @@ Personally, I would integrate the code for this last. Make sure tha tyou can wri
   - https://www.chiefdelphi.com/t/pathplanner-2025-beta/472443
     - from the same person who made the 2025 example code
 - make sure that you make a path with the least amount of checkpoints that you can. Each checkpoint increases the total time by (I believe) 5 ms (this will add up for the alloted time you're given).
+
+## UPDATED PATHPLANNER GUIDE
+Highkey just download the example code from CTRE's official github and upload your tunerconstants.jar and your robotcontainer.jar. This fixes the issue I had when it was crashing on start. 
 
 ## WPILIB
 This version of VS Code has basically everything you need. There is also documentation for basically everything. Chief Delphi, Reddit, Stack Overflow, and AI tools are your best friends. Also, the Wood Mentors are very helpful in this part.
